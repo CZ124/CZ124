@@ -12,9 +12,6 @@ Incoming university student, beginner programmer🐢
 </div>
 -->
 
-<div align="left">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CZ124" />
-</div>
 
 <!--
 **CZ124/CZ124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
