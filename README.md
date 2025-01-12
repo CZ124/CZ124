@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Cindy Zhao
-Incoming university student, beginner programmer🐢
 
 - 🔭 I’m currently working on small projects
 - 🌱 I’m currently learning c# & html css
